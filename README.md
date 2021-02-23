@@ -14,7 +14,8 @@
 
 - Tecnologias e ferramentas
 
-	<p align="left"> 
+<p align="left">
+	<a href="#" title="Java">
 	    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="45" height="45" align="center"/>  
 	</a>
 	<a href="#" title="Spring Framework">
@@ -62,9 +63,9 @@
 - LinkedIn
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="_blank" title="LinkedIn">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="40" width="40" />
-	</a>
+    <a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="_blank" title="LinkedIn">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="45" width="45" align="center"/>
+    </a>
 </p>
 
 
