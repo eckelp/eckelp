@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, sou o Gabriel Eckel Pelegrina</h1>
 <h3 align="center">Desenvolvedor de software com foco no back-end</h3>
 
-<h2 align="left">Sobre:</h2>
-
 - :heart: Sou apaixonado por tecnologias e amo aprender novas tendências. 
 - 🌱 Atualmente estudando novos conteúdos sobre:
 	- Clean Architecture
