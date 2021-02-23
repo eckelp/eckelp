@@ -27,7 +27,6 @@
     <a href="#">
 	    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Framework" width="40" height="40"/> 
 	</a>
-
 	<a href="#">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 	</a>
@@ -61,18 +60,12 @@
 	<a href="#">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="ORACLE" width="40" height="40"/> 
 	</a>
-
 	<a href="#">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> 
 	</a>
 	<a href="#">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular 8" width="40" height="40"/> 
 	</a>
-
-
-	
-	
-
 </p>
 
 <!--
