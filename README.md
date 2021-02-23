@@ -14,7 +14,7 @@
 
 - Tecnologias e ferramentas
 
-<p align="left"> 
+<p align="left" style="margin-left: 16px"> 
 	<a href="#" title="Java">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>  
     </a>
