@@ -14,7 +14,7 @@
 
 - Tecnologias e ferramentas
 
-<p align="left" style="margin-left: 16px"> 
+<p align="left"> 
 	<a href="#" title="Java">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>  
     </a>
@@ -63,7 +63,7 @@
 - LinkedIn
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="50" width="50" /></a>
 
 </p>
 
