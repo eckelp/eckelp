@@ -4,19 +4,15 @@
 <h2 align="left">Sobre:</h2>
 
 - :heart: Sou apaixonado por tecnologias e amo aprender novas tendências. 
-- 🌱 Atualmente estudando sobre:
+- 🌱 Atualmente estudando novos conteúdos sobre:
 	- Clean Architecture
+	- Kafka e Mensagerias
+	- React Native
+
+- :books: Aprimorando os conhecimentos em:
+	- Spring Security 
+	- Spring Cloud
 	- Docker e Docker Swarm
-	- Kafka
-	- 
-
-<h3 align="left">Veja também meu LinkedIn:</h3>
-
-<p align="left">
-	<a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="30" width="40" /></a>
-
-</p>
-
 
 <h3 align="left">Tecnologias e ferramentas:</h3>
 
@@ -64,6 +60,15 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular 8" width="60" height="60"/> 
 	</a>
 </p>
+
+
+<h3 align="left">Veja também meu LinkedIn:</h3>
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="30" width="40" /></a>
+
+</p>
+
 
 <!--
 **eckelp/eckelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
