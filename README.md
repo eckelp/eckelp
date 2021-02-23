@@ -21,35 +21,53 @@
 <h3 align="left">Tecnologias e ferramentas:</h3>
 
 <p align="left"> 
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+    </a>
+    <a href="#">
+	    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Framework" width="40" height="40"/> 
+	</a>
 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Framework" width="40" height="40"/> 
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 	
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="Webstorm" width="40" height="40"/> 
+	</a>
+	<a href="#">	
+		<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="ORACLE" width="40" height="40"/> 
+	</a>
 
-
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-
-
-	<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 	
-	<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-
-	<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="40" height="40"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="Webstorm" width="40" height="40"/> 
-
-	
-	<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" width="40" height="40"/> 
-	
-
-	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="ORACLE" width="40" height="40"/> 
-
-
-
-	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> 
-	<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular 8" width="40" height="40"/> 
-
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> 
+	</a>
+	<a href="#">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular 8" width="40" height="40"/> 
+	</a>
 
 
 	
