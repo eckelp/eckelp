@@ -31,9 +31,6 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="60" height="60"/> 
 	</a>
 	<a href="#">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="60" height="60"/> 
-	</a>
-	<a href="#">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/> 
 	</a>
 	<a href="#">
