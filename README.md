@@ -63,7 +63,9 @@
 - LinkedIn
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="50" width="50" /></a>
+	<a href="https://www.linkedin.com/in/gabriel-eckel-pelegrina-390061b3/" target="_blank">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gabriel" height="40" width="40" />
+	</a>
 
 </p>
 
