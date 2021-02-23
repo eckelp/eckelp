@@ -43,10 +43,10 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="60" height="60"/> 
 	</a>
 	<a href="#">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="60" height="60"/> 
+		<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="50" height="50"/> 
 	</a>
 	<a href="#">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="Webstorm" width="60" height="60"/> 
+		<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="Webstorm" width="50" height="50"/> 
 	</a>
 	<a href="#">	
 		<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="RabbitMQ" width="60" height="60"/> 
