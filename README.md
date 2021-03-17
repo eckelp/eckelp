@@ -5,11 +5,12 @@
 - 🌱 Atualmente estudando novos conteúdos sobre:
 	- Clean Architecture
 	- Kafka e Mensagerias
-	- React Native
+	- React e React Native
 
 - :books: Aprimorando os conhecimentos em:
 	- Spring Security 
 	- Spring Cloud
+	- Jenkins
 	- Docker e Docker Swarm
 
 - Tecnologias e ferramentas
