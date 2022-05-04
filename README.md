@@ -4,8 +4,9 @@
 - :heart: Sou apaixonado por tecnologias e amo aprender novas tendências. 
 - 🌱 Atualmente estudando novos conteúdos sobre:
 	- Clean Architecture
-	- Kafka e Mensagerias
+	- Mensagerias
 	- Flutter
+	- Terraform
 	
 
 - :books: Aprimorando os conhecimentos em:
