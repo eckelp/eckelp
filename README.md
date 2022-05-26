@@ -7,6 +7,7 @@
 	- Mensagerias
 	- Flutter
 	- Terraform
+	- Kotlin
 	
 
 - :books: Aprimorando os conhecimentos em:
