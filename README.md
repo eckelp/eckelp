@@ -6,8 +6,8 @@
 	- Clean Architecture
 	- Mensagerias
 	- Flutter
-	- Terraform
 	- Kotlin
+	- WebFlux
 	
 
 - :books: Aprimorando os conhecimentos em:
